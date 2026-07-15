@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I’m Marbs, a 3nd year college student with a strong passion for becoming part of the IT industry. I’m currently learning, building projects, and sharpening my technical skills step by step. This GitHub reflects my journey, progress, and commitment to growth. Thank you for visiting!
+Hello! I’m Marbs, a 3rd year college student with a strong passion for becoming part of the IT industry. I’m currently learning, building projects, and sharpening my technical skills step by step. This GitHub reflects my journey, progress, and commitment to growth. Thank you for visiting!
 
 
 # 💻 Tech Stack:
