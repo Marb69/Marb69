@@ -24,4 +24,4 @@ Continuously improving my existing projects
 
 Check out my portfolio and projects:
 
- marvs-ten.vercel.app
+ https://marvs-ten.vercel.app/
