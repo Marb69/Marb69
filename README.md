@@ -8,5 +8,18 @@ Hello! I’m Marbs, a 3rd year college student with a strong passion for becomin
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
+What I'm Currently Working On
+
+🌱 Improving my full-stack development skills
+
+🧩 Building real-world web applications
+
+📱 Exploring mobile application development
+
+🏗️ Learning better software architecture and development practices
+
+🔧 Continuously improving my existing projects
+
+
 **My Personal Website**
 https://marvs-ten.vercel.app/
