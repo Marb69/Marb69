@@ -18,10 +18,6 @@ What I'm Currently Working On
 
   Learning better software architecture and development practices
 
-Continuously improving my existing projects
 
-  Personal Website
 
-Check out my portfolio and projects:
 
-  https://marvs-ten.vercel.app/
