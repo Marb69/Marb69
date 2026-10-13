@@ -18,7 +18,7 @@ What I'm Currently Working On
 
   Learning better software architecture and development practices
 
-  Proftfolio
+  Personal Poftfolio
 
   https://marvs-ten.vercel.app/
 
