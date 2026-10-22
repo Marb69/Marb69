@@ -84,4 +84,4 @@ Check out my portfolio and projects:
 
 ---
 
-*Always learning. Always building. Always improving.* 🚀
+*Always learning. Always building. Always improving.* 
